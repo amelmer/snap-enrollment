@@ -1,4 +1,4 @@
-<b>Final Project</b>
+<b>Portfolio</b>
 
 The purpose of this project is to provide the viewer with a strong foundational understanding of general disparities across Chicago, the effect of indicators on SNAP enrollment, and how to address barriers to SNAP enrollment in their own community. To view the visualizations, run the R file titled ui.R or server.R which can be found in the snap_enrollment folder. The app can also be viewed here: https://amelmer.shinyapps.io/snap_enrollment/
 
